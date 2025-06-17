@@ -10,3 +10,6 @@ The contraption is to only push when all of the following conditions are met: <b
 The cylinder should return when a box is detected at the output and should only extend again when said
 box is removed. The cylinder should extend slower to not damage or launch the boxes and retract quickly
 to speed up the process.
+
+The video file added is not viewable on each device, here is a googlde drive url for those unable to see it:<br>
+https://drive.google.com/file/d/1LUS7Q37iaIZV3o_TgyX09nVqJuZKuWyN/view?usp=sharing
