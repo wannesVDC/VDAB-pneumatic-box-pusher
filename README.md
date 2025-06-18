@@ -13,3 +13,12 @@ to speed up the process.
 
 The video file added is not viewable on each device, here is a googlde drive url for those unable to see it:<br>
 https://drive.google.com/file/d/1LUS7Q37iaIZV3o_TgyX09nVqJuZKuWyN/view?usp=sharing
+
+
+The pneumatic schema was made and can be viewed in the fluidSIM 5 pneumatics application.
+
+
+The 3d model was made in Autodesk Fusion for personal use. There is also a model for catching the box and detecting when a box has reached the output. This contraption will in later projects be replaced by one that will move the box aside automatically.<br>
+The "plexiglass surrounding" component is meant to design a surrounding of plexiglass to make the construction safe for people to use without hurting themselves.<br>
+The pieces of sheetmetal with 5mm wide slits are to fit the pneumatic sensors on, for detecting the box, or the cylinder position.<br>
+The holes on the sides of both contraptions are to fit pneumatic connectors, so that someone can connect the pressurized tubes to the sensors and cylinder without having to access inside of the contraption.
